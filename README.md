@@ -12,6 +12,7 @@ keine PIN und kein TOTP; das alles steckt in dem Waveshare-Sketch im Nachbarordn
 
 - **Bahnhofsuhr** mit Lochzeiger (rote Scheibe mit Loch) oder einfacher roter Linie, auf quadratischem
   weißem oder rundem Zifferblatt
+- **Schweizer Kellenzeiger** und Telenorma-Logo sind aus lizenzrechtlichen Gründen nicht enthalten.
 - **Echtzeituhr DS3231** (Adafruit, per STEMMA QT/Qwiic): hält die Zeit auch ohne Strom
 - **Zeit per WLAN/NTP** beim Start (bis zu drei Netze, hat Vorrang), danach wird WLAN wieder abgeschaltet
 - **Zeit per DCF77** mit einem Empfangsmodul (optional): stellt die DS3231 nach, wenn kein WLAN da ist
