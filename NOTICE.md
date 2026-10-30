@@ -6,8 +6,7 @@ GNU General Public License (GPL) steht. Dieses Projekt steht deshalb ebenfalls u
 (siehe `../LICENSE`). Die Vorlage wurde für dieses Projekt verändert (Umsetzung als LVGL-Zeichnung,
 Sekundenzeiger wahlweise als Lochzeiger oder einfache rote Linie, ohne Firmenlogo).
 
-> Hinweis für den Herausgeber: Hier bitte den genauen Link zur Vorlage und den Namen des Urhebers
-> ergänzen. Die GPL verlangt, dass Urheber und Änderungen erkennbar bleiben.
+> https://www.ludi.de
 
 ## Bibliotheken (jeweils unter eigener Lizenz, bitte dort nachlesen)
 - LVGL 9.3.0 (MIT)
